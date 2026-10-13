@@ -131,7 +131,7 @@
     </main>
 
     <footer>
-        CineList &copy; {{ date('Y') }} — Katalog Film dan Serial
+        Plusplus22 &copy; {{ date('Y') }} — Katalog Film dan Serial
     </footer>
 </body>
 </html>
